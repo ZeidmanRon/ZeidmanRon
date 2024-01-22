@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZeidmanRon, Software and Information systems engineer.
 - 👀 I’m interested in basically everything that involves development.
 - 🌱 I’m currently learning and working on realtime embedded systems and web development.
-- 📫 you can reach me on Ronronz145@gmail.com
+- 📫 you can reach me on ronzeidman3@gmail.com
 
 <!---
 ZeidmanRon/ZeidmanRon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
