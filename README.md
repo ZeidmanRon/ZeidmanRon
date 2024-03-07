@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ZeidmanRon, Software and Information systems engineer.
 - 👀 I’m interested in basically everything that involves development.
-- 🌱 I’m currently learning and working on realtime embedded systems and web development.
+- ✨ Currently working as a team leader in a real-time & embedded systems project
+- 🌱 learning and developing full-stack projects in my free time.
 - 📫 you can reach me on ronzeidman3@gmail.com
 
 <!---
